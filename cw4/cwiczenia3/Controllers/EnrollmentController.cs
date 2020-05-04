@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using cw2.DAL;
+using cwiczenia3.Models;
 
 namespace cwiczenia3.Controllers
 {
@@ -25,7 +26,8 @@ namespace cwiczenia3.Controllers
         public async Task<IActionResult> EnrollStudent()
         {
             using (var connect = new SqlConnection(ConString))
-            using (var command = new SqlConnection())
+           // using (var command = new SqlConnection())
+            using (var command = new SqlCommand())
             {
                 command.Connection = connect;
                 connect.Open();
@@ -38,15 +40,11 @@ namespace cwiczenia3.Controllers
                 {
                     tran.Rollback();
                 }
-                var enrollment = new Enrollment();
+                var enrollment = new EnrollmentInfoDto();
                 return CreatedAtAction("enroll", enrollment);
 
             }
         }
 
-
-
-
     }
-    }
-}
+ }
