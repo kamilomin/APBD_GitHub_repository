@@ -1,0 +1,13 @@
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.exe
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.deps.json
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.json
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.dev.json
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\Kamil\Desktop\szkoła\APBD\APBD_GitHub_repository\cw5 linq 9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.genruntimeconfig.cache
